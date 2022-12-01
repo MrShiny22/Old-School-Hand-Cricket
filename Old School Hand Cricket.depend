@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669881251 source:f:\source codes\projects\old school hand cricket\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
